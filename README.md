@@ -1,2 +1,2 @@
 # BlackJack
-Demo: http://www.codeskulptor.org/#user23_aMmXsXbkuV_8.py
+Demo: http://www.codeskulptor.org/#user26_lxx7JuJRZn_14.py
